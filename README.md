@@ -5,6 +5,8 @@ A11.2022.14630
 
 Aplikasi Tema Kebencanaan pada Tanah Longsor menggunakan Reactjs dengan menerapkan beberapa konsep seperti CSS framework Tailwind, Konsep Props, Konsep State, Konsep Route, Konsep Axios, Konsep Redux, Login, Register, dan CRUD.
 
+Link API : https://github.com/ardiansetya/Disasters-Report-React-Express
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
