@@ -33,7 +33,7 @@ export default {
 <pre>@tailwind base;
 @tailwind components;
 @tailwind utilities;</pre>
-- Install library
+- Install dependencies
   <pre>npm install sweetalert2</pre>
   <pre>npm install react-router-dom</pre>
   <pre>npm install axios</pre>
