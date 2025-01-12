@@ -13,7 +13,7 @@ Aplikasi Tema Kebencanaan pada Tanah Longsor menggunakan Reactjs dengan menerapk
 # Cara menjalankan Projek
 
 - Install
-  <pre>npm create vite@latest my-project -- --template react<pre>
+  <pre>npm create vite@latest my-project -- --template react</pre>
   <pre>cd my-project</pre>
   <pre>npm install -D tailwindcss postcss autoprefixer</pre>
   <pre>npx tailwindcss init -p</pre>
